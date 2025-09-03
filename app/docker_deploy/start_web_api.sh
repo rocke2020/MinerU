@@ -1,0 +1,1 @@
+docker compose -f app/docker_deploy/compose.yaml --profile api up -d
